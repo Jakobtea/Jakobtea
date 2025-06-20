@@ -17,7 +17,7 @@ Most of what I learn comes from working on my own projects and exploring deas.
 
 - **Planet Simulation**  
   A simulation of planetary motion using physics and mathematics.  
-  Built with Python and matplotlib to visualize orbits and gravitational interactions.
+  Built with unity and C# to visualize orbits and gravitational interactions.
   [Check it out here](https://jakobtea.github.io/WebGLGravitySimGit/)
   
 - **Chaos Game**  
