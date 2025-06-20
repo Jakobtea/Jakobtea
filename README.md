@@ -20,9 +20,10 @@ Most of what I learn comes from working on my own projects and exploring deas.
 - **Chaos Game**  
   A Python implementation of the Chaos Game to generate fractals like the Sierpiński triangle.  
   Focused on combining randomness with mathematical patterns and visual output.
-  [Check it out here](https://jakobtea.github.io/Chaos-game/)
+  [Check it out here](https://jakobtea.github.io/Chaos-game/)<br/>
 
-##📊 GitHub Stats:
+
+#📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jakobtea&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Jakobtea&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakobtea&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
