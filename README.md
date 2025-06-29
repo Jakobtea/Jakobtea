@@ -18,7 +18,7 @@ Most of what I learn comes from working on my own projects and exploring deas.
   Focused on combining randomness with mathematical patterns and visual output.
   [Check it out here](https://jakobtea.github.io/Chaos-game/)<br/>
 
-  - **The Thinking Path - My Blog**  
+- **The Thinking Path - My Blog**  
   A space where I share my thoughts.
   [Check it out here](https://jakobtea.github.io/Thinking-path/)<br/>
 
