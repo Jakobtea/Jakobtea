@@ -2,7 +2,7 @@
 I'm a high school student from Germany , learning and sharing my journey as a programmer.  
 I enjoy exploring new technologies and developing projects to deepen my understanding.
 
-### 🧠What I'm Learning and Working On  
+### What I'm Learning and Working On  
 I'm currently focusing on Python and fullstack development.  
 Most of what I learn comes from working on my own projects and exploring deas.
 
