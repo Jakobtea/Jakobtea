@@ -3,23 +3,21 @@ I'm a high school student from Germany , learning and sharing my journey as a pr
 I enjoy exploring new technologies and developing projects to deepen my understanding.
 
 ### What I'm Learning and Working On  
-I'm currently focusing on Python and fullstack development.  
-Most of what I learn comes from working on my own projects and exploring deas.
+I'm currently focusing on Python and playing around with Cellular Automata. 
+I just learn what ever spikes my interest.
 
 ###  My Projects
 
 - **Planet Simulation**  
-  A simulation of planetary motion using physics and mathematics.  
+  A simulation of planetary motion.  
   Built with unity and C# to visualize orbits and gravitational interactions.
   [Check it out here](https://jakobtea.github.io/WebGLGravitySimGit/)
   
 - **Chaos Game**  
   A Python implementation of the Chaos Game to generate fractals like the Sierpiński triangle.  
-  Focused on combining randomness with mathematical patterns and visual output.
   [Check it out here](https://jakobtea.github.io/Chaos-game/)<br/>
 
 - **The Thinking Path**  
-  My Blog:
   [Check it out here](https://jakobtea.github.io/Thinking-path/)<br/>
 
  
